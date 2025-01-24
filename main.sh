@@ -1,1 +1,1 @@
-termux-toast "hi jaanu"
+termux-toast "hello suno"
