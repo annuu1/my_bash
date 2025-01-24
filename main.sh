@@ -1,1 +1,1 @@
-echo "hilloooo guys how are you"
+termux-toast "hi jaanu"
